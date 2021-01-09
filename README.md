@@ -1,4 +1,4 @@
-# Project Eeuler
+# Project Euler
 My first steps in algorithmic problem solving (2014).
 ## About Project Euler
 #What is Project Euler?
